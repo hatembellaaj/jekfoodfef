@@ -3,8 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  urlRestaurants: 'http://127.0.1.1:8080/api/restaurants',
-  urlplates:'http://127.0.1.1:8080/api/plates',
+  urlRestaurants: 'http://127.0.0.1:8080/api/restaurants',
+  urlplates:'http://127.0.0.1:8080/api/plates',
   production: false
 };
 
